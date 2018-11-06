@@ -1,0 +1,11 @@
+C:\Users\sghosh\Documents>cd C:\Users\sghosh\Documents\Suv\Personal\Berkeley
+
+C:\Users\sghosh\Documents\Suv\Personal\Berkeley>git config --global user.name "Suvrangshu Ghosh"
+
+C:\Users\sghosh\Documents\Suv\Personal\Berkeley>git config -- global user.name
+fatal: not in a git directory
+
+C:\Users\sghosh\Documents\Suv\Personal\Berkeley>git config --global user.name
+Suvrangshu Ghosh
+
+C:\Users\sghosh\Documents\Suv\Personal\Berkeley>
